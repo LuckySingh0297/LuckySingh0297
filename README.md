@@ -1,28 +1,6 @@
- <p align="center">
-  <img src="mybanner.png" width="100%" alt="Lucky Singh - Data Analytics Portfolio"/>
-</p>
-
-<h1 align="center">Hi, I'm Lucky Singh 👋</h1>
-
-<h3 align="center">
-Data Analyst | SQL | Excel | Power BI | Python
-</h3>
-
 <p align="center">
-Turning raw data into meaningful insights, interactive dashboards,
-and data-driven business decisions.
+  <img src="data-analytics-banner.png" width="100%" alt="Data Analytics Portfolio Banner">
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucky-singh-779067408/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajputlucky575@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 
 # 👨‍💻 About Me
