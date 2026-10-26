@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="data-analytics-banner.png" width="100%" alt="Data Analytics Portfolio Banner">
+  <img src="mybanner.png" width="100%" alt="Lucky Singh - Data Analytics Portfolio"/>
 </p>
+
 
 
 # 👨‍💻 About Me
