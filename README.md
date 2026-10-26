@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="mybanner.png" width="100%" alt="Lucky Singh - Data Analyst"/>
+ <p align="center">
+  <img src="mybanner.png" width="100%" alt="Lucky Singh - Data Analytics Portfolio"/>
 </p>
 
 <h1 align="center">Hi, I'm Lucky Singh 👋</h1>
@@ -23,6 +23,7 @@ and data-driven business decisions.
 </p>
 
 ---
+
 
 # 👨‍💻 About Me
 
